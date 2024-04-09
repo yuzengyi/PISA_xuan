@@ -4,9 +4,9 @@ Sequential Multivariate Linear Regression Analysis of the Impact of Teacher Info
 
 ## 作者与单位
 
-- 宣申奥^1\*^, 虞增艺^2^, 景玉慧^3^, 徐刘杰^4^
-- ^1^^2^^3^^4^浙江工业大学 教育科学与技术学院
-- ^\*^联系邮箱: 850205877@qq.com
+- 宣申奥1\*, 虞增艺2, 景玉慧3, 徐刘杰4
+- 1234浙江工业大学 教育科学与技术学院
+- \*联系邮箱: 850205877@qq.com
 
 ## 摘要
 
